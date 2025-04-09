@@ -1,0 +1,44 @@
+{
+    "customers": [
+        {
+            "customerID": 1,
+            "name": "John Lockett",
+            "phone": "12345678910",
+            "email": "JohnBaker@gmail.com",
+            "postcode": "LL11 1LL",
+            "membershipType": "Gold",
+            "initialPaymentDate": "27-01-2025",
+            "initialPaymentUpdate": false
+        },
+        {
+            "customerID": 2,
+            "name": "John Bishop",
+            "phone": "12345678917",
+            "email": "JohnB@gmail.com",
+            "postcode": "LL11 1LL",
+            "membershipType": "Silver Age",
+            "initialPaymentDate": "16-02-2026",
+            "initialPaymentUpdate": "16-02-2025"
+        },
+        {
+            "customerID": 3,
+            "name": "Adam Lockett",
+            "phone": "98765432343",
+            "email": "AL@hotmail.com",
+            "postcode": "LI75 4RF",
+            "membershipType": "Silver Age",
+            "initialPaymentDate": "23-02-2025",
+            "initialPaymentUpdate": false
+        },
+        {
+            "customerID": 4,
+            "name": "Emily Baker",
+            "phone": "12345678918",
+            "email": "EmilyBaker@gmail.com",
+            "postcode": "LL19 7PJ",
+            "membershipType": "Silver Age",
+            "initialPaymentDate": "06-04-2025",
+            "initialPaymentUpdate": false
+        }
+    ]
+}

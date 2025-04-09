@@ -1,0 +1,22 @@
+{
+    "memberships": [
+        {
+            "membershipName": "Gold",
+            "price": "10.99",
+            "timeInterval": "Months",
+            "time": "3"
+        },
+        {
+            "membershipName": "Silver Age",
+            "price": "50.99",
+            "timeInterval": "Months",
+            "time": "6"
+        },
+        {
+            "membershipName": "5 Month Terminal ",
+            "price": "99.99",
+            "timeInterval": "Months",
+            "time": "5"
+        }
+    ]
+}

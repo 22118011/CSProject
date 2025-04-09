@@ -1,0 +1,283 @@
+{
+    "staff": [
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "password": "4813494d137e1631bba301d5acab6e7bb7aa74ce1185d456565ef51d737677b2",
+            "accessLevel": "Admin"
+        },
+        {
+            "staffUsername": "adam",
+            "name": "Adam Lockett",
+            "password": "80b5e9340a5044c23677089e08d3547d8f1a439248675fec2f363cc17993e9b5",
+            "accessLevel": "Trainer"
+        },
+        {
+            "staffUsername": "JohnSmith",
+            "name": "John Smith",
+            "password": "a109e36947ad56de1dca1cc49f0ef8ac9ad9a7b1aa0df41fb3c4cb73c1ff01ea",
+            "accessLevel": "Receptionist"
+        }
+    ],
+    "staffChanges": [
+        {
+            "staffUsername": "STAFF GUY",
+            "name": "ABCDEFGHIJKLMNOP",
+            "date": "22-12-2022",
+            "time": "01:40",
+            "changeMade": "Added Customer: 4000"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "22-12-2024",
+            "time": "01:40",
+            "changeMade": "Added Customer: 4"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "22-12-2024",
+            "time": "01:40",
+            "changeMade": "Added Customer: 5"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "27-01-2025",
+            "time": "21:26",
+            "changeMade": "Deleted Customer: 1"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "27-01-2025",
+            "time": "21:26",
+            "changeMade": "Deleted Customer: 3"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "27-01-2025",
+            "time": "21:26",
+            "changeMade": "Deleted Customer: 4"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "27-01-2025",
+            "time": "21:26",
+            "changeMade": "Deleted Customer: 6"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "27-01-2025",
+            "time": "21:26",
+            "changeMade": "Deleted Customer: 7"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "27-01-2025",
+            "time": "21:27",
+            "changeMade": "Added Customer: 1"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "23-03-2025",
+            "time": "15:14",
+            "changeMade": "Added Staff: JohnSmith"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "23-03-2025",
+            "time": "18:13",
+            "changeMade": "Added Staff: JohnSmith"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:26",
+            "changeMade": "Added Membership: Premium Silver"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:26",
+            "changeMade": "Edited Membership: Premium Silver"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:27",
+            "changeMade": "Deleted Membership: Premium Silver"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:47",
+            "changeMade": "Created Session on 31/03/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:50",
+            "changeMade": "Edited Session on 31/03/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:50",
+            "changeMade": "Edited Session on 31/03/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:50",
+            "changeMade": "Added Customer 1 to Session on 31/03/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:51",
+            "changeMade": "Added Customer 1 to Session on 31/03/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:51",
+            "changeMade": "Added Customer 1 to Session on 31/03/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:56",
+            "changeMade": "Added Customer 1 to Session on 31/03/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:56",
+            "changeMade": "Deleted adam's Session on 20250331"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:57",
+            "changeMade": "Created Session on 31/03/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "24-03-2025",
+            "time": "00:59",
+            "changeMade": "Deleted adam's Session on 20250331"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:23",
+            "changeMade": "Edited Customer: 1"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:23",
+            "changeMade": "Deleted Customer: 4"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:24",
+            "changeMade": "Added Customer: 4"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:24",
+            "changeMade": "Edited Customer: 4"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:24",
+            "changeMade": "Edited Customer: 4"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:24",
+            "changeMade": "Created Session on 30/04/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:25",
+            "changeMade": "Added Customer 1 to Session on 30/04/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:25",
+            "changeMade": "Added Customer 2 to Session on 30/04/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:25",
+            "changeMade": "Added Customer 1 to Session on 30/04/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:25",
+            "changeMade": "Added Customer 7 to Session on 30/04/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:25",
+            "changeMade": "Edited Session on 30/04/2025, ran by adam"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:25",
+            "changeMade": "Deleted Membership: Copper Yearly"
+        },
+        {
+            "staffUsername": "john",
+            "name": "john smith",
+            "date": "06-04-2025",
+            "time": "17:26",
+            "changeMade": "Added Membership: 5 Month Terminal "
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "sessions": [
+        {
+            "date": "20250430",
+            "lessons": [
+                {
+                    "beginTime": "1230",
+                    "endTime": "1430",
+                    "staffMember": "adam",
+                    "customers": [
+                        "2"
+                    ]
+                }
+            ]
+        }
+    ]
+}
